@@ -30,7 +30,14 @@
   
 ### 三，使用说明
   1. 锚框的大小为[128、256、512]，比率为[1：1、1：2、2：1]。
-  2. 
+  2. tensorflow的版本是'1.9.0',keras的版本是'2.1.5',除了使用tensorflow2.0之后版本，其他版本都可以尝试。不支持python2.x。
+  3. 使用的是tensorflow backend，theano可以自行修改。
+  
+  
+### 四，参考资料
+1. [Faster R-CNN: Towards Real-Time Object Detection with Region Proposal Networks](https://arxiv.org/pdf/1506.01497.pdf)
+2. [https://github.com/yhenon/keras-frcnn/](https://github.com/yhenon/keras-frcnn/)
+
 
 
 
