@@ -21,7 +21,7 @@
 
   在这里只是对这二十类进行目标检测，没有用到图片分割等，所以在数据集中只用到了下图标记的部分
   
-  ![图片]()
+  ![](https://github.com/jiaka/faster_rcnn-keras-_VOC2012/blob/master/other/123.png)
   
   该网络采用resnet50网络，该网络的权重文件下载地址是：[https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels.h5](https://github.com/fchollet/deep-learning-models/releases/download/v0.2/resnet50_weights_tf_dim_ordering_tf_kernels.h5)
   
